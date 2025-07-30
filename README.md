@@ -43,7 +43,7 @@ For learning purposes and academic demonstration.
 
 
 🔗LINKEDIN:
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-javaid-4b526535b)
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerjavaidx)
 
 
 
