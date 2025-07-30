@@ -29,10 +29,10 @@ we used the WELFake_Dataset.csv availaible online [click here to get the Dataset
 3. PS. this original dataset has ~9000 duplicate samples and articles length inconsistency make sure to fix that 
 4. run vectorize.py
    
-it will create 3 files 
-- tfidfs_words.pkl
-- tfidfs_chars.pkl
-- count_vectorizer.pkl
+   it will create 3 files 
+   - tfidfs_words.pkl
+   - tfidfs_chars.pkl
+   - count_vectorizer.pkl
 5. run main.py
   The best model will be saved as best_model.pkl
 6. run test_model.py (make sure to give it real news articles and its word limit is small make sure to give only a paragraph)
