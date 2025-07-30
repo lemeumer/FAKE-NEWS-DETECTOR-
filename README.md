@@ -16,7 +16,7 @@ we used the WELFake_Dataset.csv availaible online [click here to get the Dataset
 - Lightweight design for local training
 
 📁 Project Structure
-- cleaned_preprocessed_news.csv # Preprocessed dataset
+- preprocessing.py #for text preprocessing
 - vectorize.py # Vectorizer training and saving
 - main.py # Model training and evaluation
 - test_dataset.py #for testing the model on dataset
@@ -26,7 +26,7 @@ we used the WELFake_Dataset.csv availaible online [click here to get the Dataset
 🧠 Model Flow
 1. downlooad the dataset from this link [Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
 2. run the preprocessing.py (it will create a file named cleaned_preprocessed_news.csv)
-3. PS. this original dataset has ~9000 duplicate samples and articles length inconsistency make sure to fix that (i will provide the preprocessed csv files in repository if there is any error in the preprocess.py)
+3. PS. this original dataset has ~9000 duplicate samples and articles length inconsistency make sure to fix that 
 4. run vectorize.py
    
 it will create 3 files 
