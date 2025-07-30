@@ -42,4 +42,8 @@ you're good to go
 Made with ❤️ by Umer
 For learning purposes and academic demonstration.
 
+[![LinkedIn]LINKEDIN:
+Feel free to connect with me on linkedin[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-username/)
+
+
 
