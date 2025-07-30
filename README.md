@@ -37,11 +37,10 @@ it will create 3 files
   The best model will be saved as best_model.pkl
 6. run test_model.py (make sure to give it real news articles and its word limit is small make sure to give only a paragraph)
 
-you're good to go
-
 👨‍💻 Author
 Made with ❤️ by Umer
 For learning purposes and academic demonstration.
+
 
 🔗LINKEDIN:
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-javaid-4b526535b)
