@@ -19,7 +19,8 @@ we used the WELFake_Dataset.csv availaible online [click here to get the Dataset
 - cleaned_preprocessed_news.csv # Preprocessed dataset
 - vectorize.py # Vectorizer training and saving
 - main.py # Model training and evaluation
-- test_model.py #for testing the model
+- test_dataset.py #for testing the model on dataset
+- test.py #for testing model on custom articles
 - requirements.txt #modules needed
 
 🧠 Model Flow
